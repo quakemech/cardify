@@ -1,0 +1,2 @@
+git+ssh://git@github.com/quakemech/nitrile.git@main#egg=nitrile
+pyyaml
